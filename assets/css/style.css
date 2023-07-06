@@ -1,63 +1,74 @@
 @import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
 
-*{
+* {
     margin: 0;
     padding: 0;
     font-family: 'special-elite', sans-serif;
     box-sizing: border-box;
 }
 
-body{
-    background:#2832c2;
+body {
+    background: #2832c2;
     height: 100vh;
     width: 100%;
     position: relative;
 }
 
-.heading{
-    color:cadetblue;
+.heading {
+    color: cadetblue;
     margin: 20px;
     padding-top: 25px;
     padding-bottom: 25px;
     font-size: 500%;
-    text-decoration:underline;
-    text-shadow: 2px 2px black;
+    text-decoration: underline;
+    text-shadow: 5px 5px black;
     font-weight: 700;
 
 }
 
-.rules-title{
+.rules-title {
     text-align: center;
     color: cadetblue;
     padding-top: 10px;
     padding-bottom: 10px;
     font-size: 250%;
     text-decoration: underline;
-    text-shadow: 2px 2px black;
+    text-shadow: 3px 3px black;
     font-weight: 500;
 }
 
-.list{
+.list {
     text-align: center;
-    color:cadetblue;
+    color: cadetblue;
 }
 
-
-
-.container{
-    height: 100%;
+.container {
+    height: 60%;
     width: 100%;
     align-items: center;
     justify-content: space-evenly;
-    display:flex;
+    display: flex;
 }
 
-.board{
-    height: 500px;
-    width: 500px;
+.game-board {
+    height: 330px;
+    width: 400px;
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
 }
 
-
+.game-board .field {
+    width: 100px;
+    height: 100px;
+    font-size: 75px;
+    display: grid;
+    box-shadow: 0px 10px 10px black;
+    font-weight: 600;
+    color: #466289;
+    background-color: #FFB739;
+    cursor: pointer;
+    border: 0;
+    border-radius: 8px;
+    align-items: center;
+}
