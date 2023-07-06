@@ -19,12 +19,31 @@ body{
     margin: 20px;
     padding-top: 25px;
     padding-bottom: 25px;
-    font-size: 300%;
+    font-size: 500%;
     text-decoration:underline;
     text-shadow: 2px 2px black;
     font-weight: 700;
 
 }
+
+.rules-title{
+    text-align: center;
+    color: cadetblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 250%;
+    text-decoration: underline;
+    text-shadow: 2px 2px black;
+    font-weight: 500;
+}
+
+.list{
+    text-align: center;
+    color:cadetblue;
+}
+
+
+
 .container{
     height: 100%;
     width: 100%;
