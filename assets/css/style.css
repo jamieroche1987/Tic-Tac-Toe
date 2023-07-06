@@ -13,3 +13,17 @@ body{
     width: 100%;
     position: relative;
 }
+
+.heading{
+    color:cadetblue;
+    margin: 20px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: 300%;
+    text-decoration:underline;
+    text-shadow: 2px 2px black;
+    font-weight: 700;
+
+}
+
+
