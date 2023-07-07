@@ -33,7 +33,7 @@ main {
     text-decoration: underline;
     text-shadow: 5px 5px black;
     font-weight: 700;
-
+    text-align: center;
 }
 
 .rules-title {
