@@ -22,7 +22,7 @@
     <h2 class="rules-title"> Rules</h2>
 
     <ul class="list">
-        <li>Players take turns putting their marks (X or 0) in empty squares.</li>
+        <li>Players take turns putting their marks (X or O) in empty squares.</li>
         <li>The first player to get 3 of their marks in a row (up, down, across, or diagonally) is the winner.</li>
         <li>When all 9 squares are full, the game is over.</li>
         <li>If no player has 3 marks in a row.The game ends in a tie.</li>
@@ -38,11 +38,11 @@
 <div class="container">
 <div class="game-board">
 
+    <button class="field">X</button>
+    <button class="field">X</button>
+    <button class="field">X</button>
     <button class="field"></button>
-    <button class="field"></button>
-    <button class="field"></button>
-    <button class="field"></button>
-    <button class="field"></button>
+    <button class="field">O</button>
     <button class="field"></button>
     <button class="field"></button>
     <button class="field"></button>
@@ -52,8 +52,8 @@
 <!--- Score Board -->
 
 <div class="score-board">
-    <p> Player X <span class="player-x"> :0</span></p>
-    <p> Player 0 <span class="player-0"> :0</span></p>
+    <p> Player X <span class="player-x"> : 0</span></p>
+    <p> Player O <span class="player-o"> : 0</span></p>
 </div> 
 
 <!--- Buttons for restarting  game -->
@@ -63,7 +63,7 @@
 <!--- Message for the Winner of the game -->
 
 <div class="popup-message">
-    <p class="message"> Player X's Wins The Game!</p>
+    <p class="message"> Player X Wins The Game!</p>
     <button class="new-game"> New Game</button>
 </div>
 

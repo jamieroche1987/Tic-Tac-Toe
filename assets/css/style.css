@@ -45,7 +45,7 @@ body {
 }
 
 .container {
-    height: 55%;
+    height: 60%;
     width: 100%;
     align-items: center;
     justify-content: space-evenly;
@@ -120,7 +120,7 @@ body {
 }
 
 button:hover{
-    filter:brightness(1.2)
+    filter:brightness(1.5)
 }
 .popup-message{
 
@@ -130,12 +130,12 @@ button:hover{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    top:0%;
-    gap:15px;
-    background: linear-gradient(180deg,rgba(0,0,00.3) rgba(0,0,0,0.7));
+    top: 0%;
+    gap: 15px;
+    background:rgba(0,0,0,0.9);
     position: absolute;
-   opacity: 0;
-    display: none; 
+    /*opacity: 0;
+    display: none;*/
     transition: all .5s;
 }
 
@@ -161,6 +161,6 @@ button:hover{
 }
 
 .popup-message show{
-    opacity: 1;
+    opacity: 1.8;
     display: flex;
 }
