@@ -16,6 +16,14 @@ body {
     flex-direction: column;
 }
 
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex: 1 0 auto;
+}
+
 .heading {
     color: cadetblue;
     margin: 10px;
