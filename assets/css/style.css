@@ -3,7 +3,7 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: 'special-elite', sans-serif;
+    font-family: 'Special Elite', sans-serif;
     box-sizing: border-box;
 }
 
@@ -66,7 +66,7 @@ body {
     font-size: 70px;
     display: grid;
     box-shadow: 0px 10px 10px black; 
-    font-family: 'permanent-marker', sans-serif;
+    font-family: 'Permanent Marker', sans-serif;
     font-weight: 600;
     color: #466289;
     background-color: #FFB739;
@@ -105,7 +105,7 @@ body {
     position: absolute;
     padding: 10px 20px;
     font-size:20px;
-    font-family: "special-elite" ,sans-serif;
+    font-family: "Special Elite" ,sans-serif;
     font-weight: bold;
     letter-spacing: 1px;
     background: #FFB739;
@@ -134,8 +134,8 @@ button:hover{
     gap: 15px;
     background:rgba(0,0,0,0.9);
     position: absolute;
-    /*opacity: 0;
-    display: none;*/
+    opacity: 0;
+    display: none;
     transition: all .5s;
 }
 
