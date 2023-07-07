@@ -57,6 +57,7 @@ main {
     font-size: 130%;
     background: #250645;
     padding: 20px 10px;
+    list-style: none;
 }
 
 
@@ -67,6 +68,7 @@ main {
     align-items: center;
     justify-content: space-evenly;
     display: flex;
+    padding: 20px 10px;
 }
 
 .game-board {
@@ -91,6 +93,8 @@ main {
     border: 0;
     border-radius: 8px;
     align-items: center;
+    transition: all 50ms ease-in-out;
+    line-height: 90px;
 }
 
 .score-board {
