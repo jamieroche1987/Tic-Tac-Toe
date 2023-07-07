@@ -36,6 +36,10 @@ main {
     text-align: center;
 }
 
+.rules {
+    line-height: 1.5;
+}
+
 .rules-title {
     text-align: center;
     color: cadetblue;
