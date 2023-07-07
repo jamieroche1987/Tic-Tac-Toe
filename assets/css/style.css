@@ -124,10 +124,9 @@ main {
 }
 
 .restart {
-    position: absolute;
     padding: 10px 20px;
     font-size: 20px;
-    font-family: "Special Elite", sans-serif;
+    font-family: "special-elite", sans-serif;
     font-weight: bold;
     letter-spacing: 1px;
     background: #FFB739;
@@ -135,10 +134,8 @@ main {
     outline: 0;
     border-radius: 8px;
     box-shadow: 0px 10px 10px black;
-    top: 95%;
-    left: 52%;
     cursor: pointer;
-    transform: translateX(-50%);
+    margin: 0 auto !important;
 }
 
 button:hover {
