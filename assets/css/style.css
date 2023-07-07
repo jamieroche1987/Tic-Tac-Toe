@@ -56,7 +56,10 @@ main {
     color: cadetblue;
     font-size: 130%;
     background: #250645;
+    padding: 20px 10px;
 }
+
+
 
 .container {
     height: 60%;
