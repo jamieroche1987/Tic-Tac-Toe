@@ -21,7 +21,7 @@ newGameBtn.onclick = function () {
     determineFirstTurn();
     count = 0;
 };
-restartBtn.onclick = function () {
+restartBtn.onclick = () => {
     enableButtons();
     determineFirstTurn();
     count = 0;
