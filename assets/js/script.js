@@ -6,8 +6,13 @@ let buttons = document.querySelectorAll(".field"),
     newGameBtn = document.querySelector(".new-game"),
     restartBtn = document.querySelector(".restart"),
     playerXScoreE1 = document.querySelector(".player-x"),
-    playerOScoreE1 = document.querySelector(".player-o")
+    playerOScoreE1 = document.querySelector(".player-o");
 
 // Which players turn it is: 0 is for O and 1 is for X
-let turnFlag=0;
+let turnFlag = 0;
+
+//Number of clicks made. If it is clicked 9 times then a draw message will be displayed.
+count = 0;
+
+
 
