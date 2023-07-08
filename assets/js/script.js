@@ -53,12 +53,13 @@ function disableButtons() {
     }, 500);
 
     function enableButtons() {
-        buttons.forEach((button) =>
+        buttons.forEach((button) => {
             button.disabled = false;
-        button.innerText = '';
-        button.style.backgroundColor = "#FFB739";
-        button.style.color = "rgb(132, 130, 149)";
-    });
+            button.innerText = '';
+            button.style.backgroundColor = "#FFB739";
+            button.style.color = "rgb(132, 130, 149)";
+    );
+    };
 
     // Removes pop up message
 

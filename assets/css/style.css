@@ -189,6 +189,8 @@ button:hover {
 footer {
     text-align: center;
     padding: 20px 0;
+    color: whitesmoke;
+
 }
 
 /* ----------------------------------------------Media queries 320 - 800px */
@@ -198,8 +200,12 @@ footer {
             font-size: 100%;
         }
 
-@media screen and (max-width: 500px)  {
+@media screen and (max-width: 575px)  {
     .container{
         display: grid;
+ 
+    }
+    .list{
+        font-size: 95%;
     }
 }
