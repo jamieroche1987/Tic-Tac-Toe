@@ -14,5 +14,11 @@ let turnFlag = 0;
 //Number of clicks made. If it is clicked 9 times then a draw message will be displayed.
 let count = 0;
 
+//Players scores
+let playerXScore = 0;
+let playerOScore = 0;
+
+
+
 
 
