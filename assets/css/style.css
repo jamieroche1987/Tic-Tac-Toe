@@ -182,7 +182,7 @@ button:hover {
 }
 
 .popup-message show {
-    opacity: 1.8;
+    opacity: 1;
     display: flex;
 }
 
