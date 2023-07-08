@@ -208,4 +208,7 @@ footer {
     .list{
         font-size: 95%;
     }
+    .game-board{
+        padding-bottom: 30px;
+    }
 }
