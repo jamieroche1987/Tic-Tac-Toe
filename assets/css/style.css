@@ -190,3 +190,16 @@ footer {
     text-align: center;
     padding: 20px 0;
 }
+
+/* ----------------------------------------------Media queries 320 - 800px */
+@media screen and (max-width: 800px) {
+    
+    .list {
+            font-size: 100%;
+        }
+
+@media screen and (max-width: 500px)  {
+    .container{
+        display: grid;
+    }
+}

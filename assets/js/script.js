@@ -58,7 +58,7 @@ function disableButtons() {
         button.innerText = '';
         button.style.backgroundColor = "#FFB739";
         button.style.color = "rgb(132, 130, 149)";
-    }
+    });
 
     // Removes pop up message
 
