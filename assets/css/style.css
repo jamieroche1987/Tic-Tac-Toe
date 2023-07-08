@@ -207,7 +207,7 @@ footer {
         }
 
         .list {
-            font-size: 95%;
+            font-size: 130%;
         }
 
         .game-board {
@@ -217,9 +217,17 @@ footer {
 
     @media screen and (max-width: 350px) {
         .heading {
-            font-size: 350%;
+            font-size: 400%;
         }
 
         .rules {
             font-size: 200%;
+        }
+
+        .list {
+            font-size: 55%;
+        }
+
+        .popup-message {
+            text-align: center;
         }
