@@ -12,7 +12,7 @@ let buttons = document.querySelectorAll(".field"),
 let turnFlag = 0;
 
 //Number of clicks made. If it is clicked 9 times then a draw message will be displayed.
-count = 0;
+let count = 0;
 
 
 
