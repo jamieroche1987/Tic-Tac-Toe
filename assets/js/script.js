@@ -91,18 +91,16 @@ function updateScore(value) {
         }
     };
     //Write X or O on the button clicked
-
     buttons.forEach((button) => {
-        console.log(button);
         button.onclick = function () {
             if (turnFlag === 0) {
                 button.innerText = "O";
-                console.log("O" + button.innerText);
+                console.log("O ->" + button.innerText);
                 button.disabled = true;
                 turnFlag = 1;
             } else {
                 button.innerText = "X";
-                console.log("X" + button.innerText);
+                console.log("X ->" + button.innerText);
                 button.disabled = true;
                 turnFlag = 0;
             }
@@ -113,18 +111,5 @@ function updateScore(value) {
             checkwins();
         };
     });
-    updateScore();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+};
+updateScore();

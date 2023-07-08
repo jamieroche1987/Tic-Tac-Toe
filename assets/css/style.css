@@ -193,22 +193,33 @@ footer {
 
 }
 
-/* ----------------------------------------------Media queries 320 - 800px */
+/* ----------------------------------------------Media queries 350 - 800px */
 @media screen and (max-width: 800px) {
-    
+
     .list {
-            font-size: 100%;
+        font-size: 100%;
+    }
+
+    @media screen and (max-width: 575px) {
+        .container {
+            display: grid;
+
         }
 
-@media screen and (max-width: 575px)  {
-    .container{
-        display: grid;
- 
+        .list {
+            font-size: 95%;
+        }
+
+        .game-board {
+            padding-bottom: 30px;
+        }
     }
-    .list{
-        font-size: 95%;
-    }
-    .game-board{
-        padding-bottom: 30px;
-    }
-}
+
+    @media screen and (max-width: 350px) {
+        .heading {
+            font-size: 350%;
+        }
+
+        .rules {
+            font-size: 200%;
+        }
