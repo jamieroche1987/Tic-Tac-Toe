@@ -21,6 +21,19 @@ let playerOScore = 0;
 //Buttons combinations to win the game
 let winningPosition = [[0,1,2],[3,4,5],[6,7,8],[0,3,6],[1,4,7],[2,5,8],[0,4,8],[2,4,6]];
 
+//Event Listener for buttons
+newGameBtn.onclick = function () {
+    enableButtons();
+    determineFirstTurn();
+    count = 0;
+}
+
+restartBtn.onclick = function(){
+    enableButtons();
+    determineFirstTurn();
+    count=0;
+}
+
 
 
 
