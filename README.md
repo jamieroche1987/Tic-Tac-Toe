@@ -97,7 +97,19 @@ The Game consists of:
 * COLOR SCHEME
 * I have used various colors that will draw the users to the key elements of the site
 
--The background color #2832C2
+- The background color #2832C2
+  ![background](/assets/images/testing/backgroundblue.png)
+
+- The Heading and Rules title color rgb(132, 130, 149)
+  ![heading](/assets/images/testing/headingcolor.png)
+
+- The game board, background of the score board and restart button color
+  ![gameboard](/assets/images/testing/gameboard.png)
+
+- The pop up message has a new game button which is colored #250645 with the text color #466289. It also has a winning message text color #ffd700
+  ![popupmessage](/assets/images/testing/popupbackground.png)
+  ![popupmessagetext](/assets/images/testing/popuptext.png)
+  ![winningtext](/assets/images/testing/winningtext.png)
 
 - TYPOGRAPHY
 
@@ -105,7 +117,15 @@ The fonts used for my website are 'Special-Elite' and 'Permanent Marker'. Specia
 
 ## TESTING
 
--
+- As a user, I want to easily understand the main purpose of the game
+
+- As a user, I want the game to be colourful and fun
+
+- As a user, I want to see obvious and clear buttons to play the game
+
+- As a user, I want to see a score board to see who wins the most games
+
+*
 
 ## DEVICES
 
@@ -132,6 +152,12 @@ The fonts used for my website are 'Special-Elite' and 'Permanent Marker'. Specia
 *
 
 ## Validators
+
+- I ran all of my code through css-validator and html-validator, and I was given multiple errors of Duplicate ID
+- I have since corrected these errors and run the validators again and have found no errors. [CSS screenshot](/assets/images/testing/cssvalidation.png) and [HTML screenshot](/assets/images/testing/htmlchecker.png)
+
+- See [HERE](n) for the full report on CSS Validator
+- See [HERE]() for the home page report on HTML Validator
 
 ## Lighthouse
 
