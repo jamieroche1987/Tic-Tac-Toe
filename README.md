@@ -13,9 +13,12 @@ Tic Tac Toe is a website designed to play the classic game of noughts and crosse
 
 ## INITIAL IDEA CONCEPT
 
-My initial idea for the project was to create a game of Tic Tac Toe that can be played with friends and family. My target audience is anyone who has an interest in playing tic tac toe with others . I wanted to make the website to stand out with the colors used. I also wanted their to be a score board to keep track of who is winning the most games.
+- My initial idea for the project was to create a game of Tic Tac Toe that can be played with friends and family
+- I wanted to make the website to stand out with the colors used.
+- I also wanted their to be a score board to keep track of who is winning the most games.
+- My target audience is anyone who has an interest in playing tic tac toe with others
 
-- The Features I wanted the project to have are:
+* The Features I wanted the project to have are:
 
   - To make the site easy read
   - Have a players score board
@@ -23,25 +26,41 @@ My initial idea for the project was to create a game of Tic Tac Toe that can be 
   - Have a pop up message at the end of the game with a button feature to start a new game.
 
 ## UX/UI
-The game was created to show my knowledge of JAVASCRIPT including, HTML and CSS
-To provide users with a game that is easy to play and fun
-The user is able to interact with 2/3 clear buttons to play the game
-Any interactive buttons should be clear and obvious as to what they do
+
+- The game was created to show my knowledge of JAVASCRIPT including, HTML and CSS
+- To provide users with a game that is easy to play and fun
+- The user is able to interact with 2/3 clear buttons to play the game
+- Any interactive buttons should be clear and obvious as to what they do
 
 Site Goals:
 
-To showcase my skills in JAVASCRIPT, HTML and CSS
-To provide users with an easy to play game
-To provide users with rules on how to play the game
-To make the game easily accessible
+- To showcase my skills in JAVASCRIPT, HTML and CSS
+- To provide users with an easy to play game
+- To provide users with rules on how to play the game
+- To make the game easily accessible
 
 ## USER STORIES
-As a user, I want to easily understand the main purpose of the game
-As a user, I want the game to be colourful and fun
-As a user, I want to see obvious and clear buttons to play the game
-As a user, I want to see a score board to see who wins the most games
+
+- As a user, I want to easily understand the main purpose of the game
+- As a user, I want the game to be colourful and fun
+- As a user, I want to see obvious and clear buttons to play the game
+- As a user, I want to see a score board to see who wins the most games
 
 ## WIREFRAMES
+
+Wireframes for mobile and desktop can be seen below:
+
+- Wireframe for Game Board Page desktop
+  ![wireframes](/assets/images/wireframes/wiremaindesktop.png)
+
+- Wireframe for Game Board Page mobile
+  ![wireframes](/assets/images/wireframes/wiremainmobile.png)
+
+- Wireframe for Winning Pop Up message desktop
+  ![wireframes](/assets/images/wireframes/wirepopupdesktop.png)
+
+  - Wireframe for Winning Pop Up message mobile
+    ![wireframes](/assets/images/wireframes/wirepopupmobile.png)
 
 ## FEATURES
 
