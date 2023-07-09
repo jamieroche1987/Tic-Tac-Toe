@@ -29,7 +29,7 @@ Tic Tac Toe is a website designed to play the classic game of noughts and crosse
 
 - The game was created to show my knowledge of JAVASCRIPT including, HTML and CSS
 - To provide users with a game that is easy to play and fun
-- The user is able to interact with 2/3 clear buttons to play the game
+- The user is able to interact with buttons to play the game
 - Any interactive buttons should be clear and obvious as to what they do
 
 Site Goals:
@@ -68,15 +68,37 @@ The Game consists of:
 
 - A heading of TIC TAC TOE
   ![heading](/assets/images/testing/heading.png)
-  - A section explaining the rules of the game located underneath the heading.
-    ![rules](/assets/images/testing/rules.png)
-- One page with a 9 empty boxes that when clicked will display an X or and O depending on whose players turn it is.
+
+- A section explaining the rules of the game located underneath the heading.
+
+![rules](/assets/images/testing/rules.png)
+
+- A page with a 9 empty boxes that when clicked will display an X or and O depending on whose players turn it is.
 - On the right of the game is the Score board to keep track of how many games Player X or Player O has won. (everyone time a player wins the score of the winning player will increase by 1)
   ![gameboard](/assets/images/testing/gameboard.png)
+
 - At the bottom of the page is a restart game button which will clear the game board so the game can restart.
-  ![restart](/assets/images/testing/restart.png)
+
+![restart](/assets/images/testing/restart.png)
+
 - When the games ends with someone winning or the game being drawn a pop up message will appear as seen below.
+
   ![popup](/assets/images/testing/message.png)
+
+- When the buttons are hovered over they brighten up to make the user aware they are on that button.
+
+* Future features:
+
+- I would add a feature that would allow the user to play on their own against a computer.
+- Another feature would be adding a time so each player only has a certain amount of time per move.
+- I would add a feature which alternates the player starting first at the start of each game.
+- I would add a feature to stop the first turn of each player being able to select the middle field on the game board.
+
+* Color Scheme
+
+* TYPOGRAPHY
+
+The fonts used for my website are 'Special-Elite' and 'Permanent Marker'. Special Elite is used for all the text and i have used the Permanent Marker for the X and O's on the game board. The font is imported from Google Fonts
 
 ## TESTING
 
