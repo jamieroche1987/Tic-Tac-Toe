@@ -25,7 +25,7 @@ main {
 }
 
 .heading {
-    color: rgb(132, 130, 149);
+    color: whitesmoke;
     margin: 10px;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -42,7 +42,7 @@ main {
 
 .rules-title {
     text-align: center;
-    color: rgb(132, 130, 149);
+    color: whitesmoke;
     padding-top: 5px;
     padding-bottom: 10px;
     font-size: 250%;
@@ -53,7 +53,7 @@ main {
 
 .list {
     text-align: center;
-    color: rgb(132, 130, 149);
+    color: whitesmoke;
     font-size: 130%;
     background: #250645;
     padding: 20px 10px;
@@ -87,7 +87,7 @@ main {
     box-shadow: 0px 10px 10px black;
     font-family: 'Permanent Marker', sans-serif;
     font-weight: 600;
-    color: rgb(132, 130, 149);
+    color: whitesmoke;
     background-color: #FFB739;
     cursor: pointer;
     border: 0;
@@ -114,7 +114,7 @@ main {
 .score-board p {
     padding: 15px;
     font-size: 25px;
-    background: rgb(132, 130, 149);
+    background: whitesmoke;
     border-radius: 8px;
     box-shadow: 0px 10px 10px black;
 }
@@ -130,6 +130,8 @@ main {
     font-weight: bold;
     letter-spacing: 1px;
     background: #FFB739;
+    color: whitesmoke;
+    text-shadow: 3px 3px black;
     border: 0;
     outline: 0;
     border-radius: 8px;
