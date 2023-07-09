@@ -64,11 +64,14 @@ Wireframes for mobile and desktop can be seen below:
 
 ## FEATURES
 
-## DESIGN
+The Game consists of:
 
--
-
-#
+- A heading of TIC TAC TOE
+  ![heading](/assets/images/)
+- One page with a 9 empty boxes that when clicked will display an X or and O depending on whose players turn it is.
+- A section explaining the rules of the game located underneath the heading.
+- On the right of the game is the Score board to keep track of how many games Player X or Player O has won. (everyone time a player wins the score of the winning player will increase by 1)
+- At the bottom of the page is a restart game button which will clear the game board so the game can restart.
 
 ## TESTING
 
