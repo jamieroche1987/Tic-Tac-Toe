@@ -98,18 +98,18 @@ The Game consists of:
 * I have used various colors that will draw the users to the key elements of the site
 
 - The background color #2832C2
-  ![background](/assets/images/testing/backgroundblue.png)
+  ![Background](/assets/images/testing/backgroundblue.png)
 
 - The Heading and Rules title color rgb(132, 130, 149)
-  ![heading](/assets/images/testing/headingcolor.png)
+  ![Heading](/assets/images/testing/headingcolor.png)
 
 - The game board, background of the score board and restart button color
-  ![gameboard](/assets/images/testing/gameboard.png)
+  ![Game board](/assets/images/testing/gameboard.png)
 
 - The pop up message has a new game button which is colored #250645 with the text color #466289. It also has a winning message text color #ffd700
-  ![popupmessage](/assets/images/testing/popupbackground.png)
-  ![popupmessagetext](/assets/images/testing/popuptext.png)
-  ![winningtext](/assets/images/testing/winningtext.png)
+  ![popup message](/assets/images/testing/popupbackground.png)
+  ![Popup message text](/assets/images/testing/popuptext.png)
+  ![Winning text](/assets/images/testing/winningtext.png)
 
 - TYPOGRAPHY
 
@@ -154,10 +154,11 @@ The fonts used for my website are 'Special-Elite' and 'Permanent Marker'. Specia
 ## Validators
 
 - I ran all of my code through css-validator and html-validator, and I was given multiple errors of Duplicate ID
-- I have since corrected these errors and run the validators again and have found no errors. [CSS screenshot](/assets/images/testing/cssvalidation.png) and [HTML screenshot](/assets/images/testing/htmlchecker.png)
+- I have since corrected these errors and run the validators again and have found no errors. [CSS screenshot]() and [HTML screenshot](assets/images/testing/htmlvalidator.png)
 
-- See [HERE](n) for the full report on CSS Validator
-- See [HERE]() for the home page report on HTML Validator
+- See [HERE]() for the full report on CSS Validator
+- See [HERE](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjamieroche1987.github.io%2Ftic-tac-toe%2F) for the home page report on HTML Validator -_ I ran all of my Javascript code through JSHint, No errors found
+  _ See [HERE](assets/images/testing/jshint1.png) (assets/images/testing/jshint2.png) (assets/images/testing/jshint3.png) for JSHint Report
 
 ## Lighthouse
 
