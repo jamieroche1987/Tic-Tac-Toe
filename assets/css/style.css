@@ -146,7 +146,6 @@ button:hover {
 
     width: 100%;
     height: 100%;
-    display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
@@ -181,9 +180,9 @@ button:hover {
 
 }
 
-.popup-message show {
-    opacity: 1;
-    display: flex;
+.popup-message.show {
+    opacity: 1 !important;
+    display: flex !important;
 }
 
 footer {
@@ -215,7 +214,7 @@ footer {
         }
     }
 
-    @media screen and (max-width: 350px) {
+    @media screen and (max-width: 450px) {
         .heading {
             font-size: 400%;
         }

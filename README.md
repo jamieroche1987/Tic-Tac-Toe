@@ -23,10 +23,23 @@ My initial idea for the project was to create a game of Tic Tac Toe that can be 
   - Have a pop up message at the end of the game with a button feature to start a new game.
 
 ## UX/UI
+The game was created to show my knowledge of JAVASCRIPT including, HTML and CSS
+To provide users with a game that is easy to play and fun
+The user is able to interact with 2/3 clear buttons to play the game
+Any interactive buttons should be clear and obvious as to what they do
 
 Site Goals:
 
+To showcase my skills in JAVASCRIPT, HTML and CSS
+To provide users with an easy to play game
+To provide users with rules on how to play the game
+To make the game easily accessible
+
 ## USER STORIES
+As a user, I want to easily understand the main purpose of the game
+As a user, I want the game to be colourful and fun
+As a user, I want to see obvious and clear buttons to play the game
+As a user, I want to see a score board to see who wins the most games
 
 ## WIREFRAMES
 
