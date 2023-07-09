@@ -94,9 +94,12 @@ The Game consists of:
 - I would add a feature which alternates the player starting first at the start of each game.
 - I would add a feature to stop the first turn of each player being able to select the middle field on the game board.
 
-* Color Scheme
+* COLOR SCHEME
+* I have used various colors that will draw the users to the key elements of the site
 
-* TYPOGRAPHY
+-The background color #2832C2
+
+- TYPOGRAPHY
 
 The fonts used for my website are 'Special-Elite' and 'Permanent Marker'. Special Elite is used for all the text and i have used the Permanent Marker for the X and O's on the game board. The font is imported from Google Fonts
 
