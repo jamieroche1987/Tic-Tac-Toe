@@ -67,11 +67,16 @@ Wireframes for mobile and desktop can be seen below:
 The Game consists of:
 
 - A heading of TIC TAC TOE
-  ![heading](/assets/images/)
+  ![heading](/assets/images/testing/heading.png)
+  - A section explaining the rules of the game located underneath the heading.
+    ![rules](/assets/images/testing/rules.png)
 - One page with a 9 empty boxes that when clicked will display an X or and O depending on whose players turn it is.
-- A section explaining the rules of the game located underneath the heading.
 - On the right of the game is the Score board to keep track of how many games Player X or Player O has won. (everyone time a player wins the score of the winning player will increase by 1)
+  ![gameboard](/assets/images/testing/gameboard.png)
 - At the bottom of the page is a restart game button which will clear the game board so the game can restart.
+  ![restart](/assets/images/testing/restart.png)
+- When the games ends with someone winning or the game being drawn a pop up message will appear as seen below.
+  ![popup](/assets/images/testing/message.png)
 
 ## TESTING
 
