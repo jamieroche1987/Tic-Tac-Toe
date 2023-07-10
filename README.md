@@ -9,7 +9,7 @@ Tic Tac Toe is a website designed to play the classic game of noughts and crosse
 
 ## FINAL DESIGN
 
-![Final project image](/assets/images/amiresponsive.png) Am i Responsive(https://amiresponsive.co.uk/)
+![Final project image](/assets/images/testing/amiresponsive.png) Am i Responsive(https://amiresponsive.co.uk/)
 
 ## INITIAL IDEA CONCEPT
 
@@ -153,18 +153,21 @@ The fonts used for my website are 'Special-Elite' and 'Permanent Marker'. Specia
 
 ## Validators
 
-- I ran all of my code through css-validator and html-validator, and I was given multiple errors of Duplicate ID
-- I have since corrected these errors and run the validators again and have found no errors. [CSS screenshot]() and [HTML screenshot](assets/images/testing/htmlvalidator.png)
+- I ran all of my code through css-validator and html-validator, and I was given the error of Parse.
+- I have since corrected these error and run the validators again and have found no errors. [CSS screenshot]() and [HTML screenshot](assets/images/testing/htmlvalidator.png)
 
-- See [HERE]() for the full report on CSS Validator
-- See [HERE](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjamieroche1987.github.io%2Ftic-tac-toe%2F) for the home page report on HTML Validator -_ I ran all of my Javascript code through JSHint, No errors found
-  _ See [HERE](assets/images/testing/jshint1.png) (assets/images/testing/jshint2.png) (assets/images/testing/jshint3.png) for JSHint Report
+- See [HERE](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjamieroche1987.github.io%2Ftic-tac-toe%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) for the full report on CSS Validator
+- See [HERE](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjamieroche1987.github.io%2Ftic-tac-toe%2F) for the home page report on HTML Validator -\_
+
+-I ran all of my Javascript code through JSHint, No errors found
+\_ See [HERE](assets/images/testing/jshint1.png) for JSHint Report
 
 ## Lighthouse
 
 ## Accessibility
 
--
+- The Website has been through wave.webaim.org for accessibility testing.
+- Found here: https://wave.webaim.org/report#/https://jamieroche1987.github.io/tic-tac-toe/
 
 ## SOLVED BUGS AND ERRORS
 
