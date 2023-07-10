@@ -81,7 +81,7 @@ The Game consists of:
 
 - A page with a 9 empty boxes that when clicked will display an X or and O depending on whose players turn it is.
 - On the right of the game is the Score board to keep track of how many games Player X or Player O has won. (everyone time a player wins the score of the winning player will increase by 1)
- ![gameboard](/assets/images/testing/gameboard.png)
+  ![gameboard](/assets/images/testing/gameboard.png)
 
 - At the bottom of the page is a restart game button which will clear the game board so the game can restart.
 
@@ -124,9 +124,9 @@ The Game consists of:
 
 The fonts used for my website are 'Special-Elite' and 'Permanent Marker'. Special Elite is used for all the text and i have used the Permanent Marker for the X and O's on the game board. The font is imported from Google Fonts
 
-![Special elite](/assets/images/testing/specialelite.png.png)
+![Special elite](/assets/images/testing/specialelite.png)
 
-![Permenent marker](/assets/images/testing/permenentmarker.png.png)
+![Permenent marker](/assets/images/testing/permenentmarker.png)
 
 ## TESTING
 
