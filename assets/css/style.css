@@ -24,6 +24,7 @@ main {
     flex: 1 0 auto;
 }
 
+/* ----------------------------------------------Heading style*/
 .heading {
     color: whitesmoke;
     margin: 10px;
@@ -36,10 +37,12 @@ main {
     text-align: center;
 }
 
+/* ----------------------------------------------Rules style*/
 .rules {
     line-height: 1.5;
 }
 
+/* ----------------------------------------------Rules title style*/
 .rules-title {
     text-align: center;
     color: whitesmoke;
@@ -71,6 +74,7 @@ main {
     padding: 20px 10px;
 }
 
+/* ----------------------------------------------Game board style */
 .game-board {
     height: 330px;
     width: 330px;
@@ -97,6 +101,7 @@ main {
     line-height: 90px;
 }
 
+/* ----------------------------------------------Score board style */
 .score-board {
     background: #FFB739;
     width: 200px;
@@ -123,6 +128,7 @@ main {
     transform: scale(0.85);
 }
 
+/* ----------------------------------------------Restart button style */
 .restart {
     padding: 10px 20px;
     font-size: 20px;
@@ -142,6 +148,7 @@ button:hover {
     filter: brightness(1.5)
 }
 
+/* ----------------------------------------------Pop up message styles */
 .popup-message {
 
     width: 100%;
@@ -185,6 +192,7 @@ button:hover {
     display: flex !important;
 }
 
+/* ----------------------------------------------Footer Styles */
 footer {
     text-align: center;
     padding: 20px 0;
