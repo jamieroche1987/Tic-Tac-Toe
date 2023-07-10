@@ -123,19 +123,19 @@ The fonts used for my website are 'Special-Elite' and 'Permanent Marker'. Specia
 
 - As a user, i want to have a rules section so that i can undertand how the game works.
 
-  * Upon loading the Game, you will see a the heading indicating what the game is. Underneath the heading is the rules section which outlines how to play the game. The game board is standing out with its coloring which help the user locate where to play the game. Outcome: `Fulfilled.`
+  - Upon loading the Game, you will see a the heading indicating what the game is. Underneath the heading is the rules section which outlines how to play the game. The game board is standing out with its coloring which help the user locate where to play the game. Outcome: `Fulfilled.`
 
 - As a user, I want the game to be colourful and fun:
 
-  * I have used various colors to help show the user the different parts to the game. Using a brighter color for the key elements helps the user navigate around the site. Outcome: `Fulfilled.`
+  - I have used various colors to help show the user the different parts to the game. Using a brighter color for the key elements helps the user navigate around the site. Outcome: `Fulfilled.`
 
 - As a user, I want to see obvious and clear buttons to play the game.
 
-  * I included a restart button at the bottom of the page which will clear all the game board fields. I have also added a new game button on the pop up message which when clicked will restart the game while also increases the score board for the winning player. Outcome: `Fulfilled.`
+  - I included a restart button at the bottom of the page which will clear all the game board fields. I have also added a new game button on the pop up message which when clicked will restart the game while also increases the score board for the winning player. Outcome: `Fulfilled.`
 
 - As a user, I want to see a score board to see who wins the most games:
 
-  * I included a scoreboard on the right hand side of the game board( on the desktop) which has the scores of the players X and O. It will increase by 1 on the player X or O winning. Outcome: `Fulfilled.`
+  - I included a scoreboard on the right hand side of the game board( on the desktop) which has the scores of the players X and O. It will increase by 1 on the player X or O winning. Outcome: `Fulfilled.`
 
 ## DEVICES
 
