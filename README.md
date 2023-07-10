@@ -87,14 +87,16 @@ The Game consists of:
 
 - When the buttons are hovered over they brighten up to make the user aware they are on that button.
 
-* Future features:
+* FUTURE FEATURES:
 
 - I would add a feature that would allow the user to play on their own against a computer.
 - Another feature would be adding a time so each player only has a certain amount of time per move.
 - I would add a feature which alternates the player starting first at the start of each game.
 - I would add a feature to stop the first turn of each player being able to select the middle field on the game board.
+- I would add a feature to allow the user to type in their own name instead of the Player X or Player O names.
 
 * COLOR SCHEME
+
 * I have used various colors that will draw the users to the key elements of the site
 
 - The background color #2832C2
@@ -111,7 +113,7 @@ The Game consists of:
   ![Popup message text](/assets/images/testing/popuptext.png)
   ![Winning text](/assets/images/testing/winningtext.png)
 
-- TYPOGRAPHY
+* TYPOGRAPHY
 
 The fonts used for my website are 'Special-Elite' and 'Permanent Marker'. Special Elite is used for all the text and i have used the Permanent Marker for the X and O's on the game board. The font is imported from Google Fonts
 
@@ -154,7 +156,7 @@ The fonts used for my website are 'Special-Elite' and 'Permanent Marker'. Specia
 ## Validators
 
 - I ran all of my code through css-validator and html-validator, and I was given the error of Parse.
-- I have since corrected these error and run the validators again and have found no errors. [CSS screenshot]() and [HTML screenshot](assets/images/testing/htmlvalidator.png)
+- I have since corrected these error and run the validators again and have found no errors. [CSS screenshot](/assets/images/testing/cssvalidator.png) and [HTML screenshot](assets/images/testing/htmlvalidator.png)
 
 - See [HERE](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjamieroche1987.github.io%2Ftic-tac-toe%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) for the full report on CSS Validator
 - See [HERE](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjamieroche1987.github.io%2Ftic-tac-toe%2F) for the home page report on HTML Validator -\_
@@ -164,6 +166,10 @@ The fonts used for my website are 'Special-Elite' and 'Permanent Marker'. Specia
 
 ## Lighthouse
 
+- I ran the webpage page live through Chrome Lighthouse and received the following results
+
+![Main Page](/assets/images/testing/lighthouse.png)
+
 ## Accessibility
 
 - The Website has been through wave.webaim.org for accessibility testing.
@@ -171,23 +177,34 @@ The fonts used for my website are 'Special-Elite' and 'Permanent Marker'. Specia
 
 ## SOLVED BUGS AND ERRORS
 
--
+- I had one error of Parse Error when i ran through the CSS validator which i have since corrected.
 
 ## UNSOLVED BUGS OR ERRORS
 
+- There are no errors reporting on the my site
+
 ## FUNCTIONALITY
 
-#
+- Pages all load correctly on all device screen sizes
+- Each button box has been hovered over to show the difference of brightness when over it
+- Each field button has been clicked to confirm an X or O appears when clicked on
+- The restart button has been clicked on to confirm it clears all the fields on the game board
+- The new game button has been clicked to clear the pop up message and start a new game.
+- The game has been played an won multiple times to show that the X and O score board increase on a player winning the game.
 
 # TECHNOLOGIES USED
 
--
+- [HTML](https://en.wikipedia.org/wiki/HTML5)
+- [CSS](https://en.wikipedia.org/wiki/CSS#CSS_3)
+- [JAVASCRIPT](https://en.wikipedia.org/wiki/JavaScript)
 
 ## PROGRAMS USED
 
--
-
-#
+- The project was written and tested using [Gitpod](https://gitpod.io/)
+- The project uses [Github](https://github.com/) for utilising git version control
+- The project was debugged using [Google Chrome Development tools](https://developer.chrome.com/docs/devtools/)
+- The project was tested for responsiveness at different screen sizes using [Am-I-Responsive](http://ami.responsivedesign.is/#)
+- The project's wireframes were designed in [Balsamiq](https://balsamiq.com/wireframes/)
 
 # DEPLOYMENT
 
