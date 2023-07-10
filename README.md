@@ -7,11 +7,11 @@
 Tic Tac Toe is a website designed to play the classic game of noughts and crosses
 [Here is a link to the final project](https://jamieroche1987.github.io/tic-tac-toe/)
 
-## FINAL DESIGN
+### FINAL DESIGN
 
 ![Final project image](/assets/images/testing/amiresponsive.png) Am i Responsive(https://amiresponsive.co.uk/)
 
-## INITIAL IDEA CONCEPT
+### INITIAL IDEA CONCEPT
 
 - My initial idea for the project was to create a game of Tic Tac Toe that can be played with friends and family
 - I wanted to make the website to stand out with the colors used.
@@ -52,27 +52,31 @@ Site Goals:
 Wireframes for mobile and desktop can be seen below:
 
 - Wireframe for Game Board Page desktop
+
   ![wireframes](/assets/images/wireframes/wiremaindesktop.png)
 
 - Wireframe for Game Board Page mobile
+
   ![wireframes](/assets/images/wireframes/wiremainmobile.png)
 
 - Wireframe for Winning Pop Up message desktop
+
   ![wireframes](/assets/images/wireframes/wirepopupdesktop.png)
 
   - Wireframe for Winning Pop Up message mobile
-    ![wireframes](/assets/images/wireframes/wirepopupmobile.png)
+
+  ![wireframes](/assets/images/wireframes/wirepopupmobile.png)
 
 ## FEATURES
 
 The Game consists of:
 
 - A heading of TIC TAC TOE
-  ![heading](/assets/images/testing/heading.png)
+  [heading](/assets/images/testing/heading.png)
 
 - A section explaining the rules of the game located underneath the heading.
 
-![rules](/assets/images/testing/rules.png)
+[rules](/assets/images/testing/rules.png)
 
 - A page with a 9 empty boxes that when clicked will display an X or and O depending on whose players turn it is.
 - On the right of the game is the Score board to keep track of how many games Player X or Player O has won. (everyone time a player wins the score of the winning player will increase by 1)
@@ -80,7 +84,7 @@ The Game consists of:
 
 - At the bottom of the page is a restart game button which will clear the game board so the game can restart.
 
-![restart](/assets/images/testing/restart.png)
+  ![restart](/assets/images/testing/restart.png)
 
 - When the games ends with someone winning or the game being drawn a pop up message will appear as seen below.
 
@@ -90,26 +94,26 @@ The Game consists of:
 
 * FUTURE FEATURES:
 
-- I would add a feature that would allow the user to play on their own against a computer.
-- Another feature would be adding a time so each player only has a certain amount of time per move.
-- I would add a feature to stop the first turn of each player being able to select the middle field on the game board.
-- I would add a feature to allow the user to type in their own name instead of the Player X or Player O names.
+   - I would add a feature that would allow the user to play on their own against a computer.
+   - Another feature would be adding a time so each player only has a certain amount of time per move.
+   - I would add a feature to stop the first turn of each player being able to select the middle field on the game board.
+   - I would add a feature to allow the user to type in their own name instead of the Player X or Player O names.
 
 * COLOR SCHEME
 
-* I have used various colors that will draw the users to the key elements of the site
+   - I have used various colors that will draw the users to the key elements of the site
 
-- The background color #2832C2
+   - The background color #2832C2
   ![Background](/assets/images/testing/backgroundblue.png)
 
-- The Heading and Rules title color #F5F5F5
+   - The Heading and Rules title color #F5F5F5
   ![Heading](/assets/images/testing/headingcolor.png)
 
-- The game board, background of the score board and restart button color
+   - The game board, background of the score board and restart button color
 
   ![Game board](/assets/images/testing/gameboard.png)
 
-- The pop up message has a new game button which is colored #250645 with the text color #466289. It also has a winning message text color #ffd700
+   - The pop up message has a new game button which is colored #250645 with the text color #466289. It also has a winning message text color #ffd700
 
   ![popup message](/assets/images/testing/popupbackground.png)
   ![Popup message text](/assets/images/testing/popuptext.png)
@@ -119,6 +123,9 @@ The Game consists of:
 
 The fonts used for my website are 'Special-Elite' and 'Permanent Marker'. Special Elite is used for all the text and i have used the Permanent Marker for the X and O's on the game board. The font is imported from Google Fonts
 
+[Special elite](/assets/images/testing/specialelite.png.png)
+
+[Permenent marker](/assets/images/testing/permenentmarker.png.png)
 ## TESTING
 
 - As a user, i want to have a rules section so that i can undertand how the game works.
@@ -148,7 +155,7 @@ The fonts used for my website are 'Special-Elite' and 'Permanent Marker'. Specia
   - Apple:
 
     - Ipad mini
-    - Iphone 14 pro max
+    - Iphone 14
 
   - Desktops/laptops:
 
@@ -167,10 +174,10 @@ The fonts used for my website are 'Special-Elite' and 'Permanent Marker'. Specia
 - I have since corrected these error and run the validators again and have found no errors. [CSS screenshot](/assets/images/testing/cssvalidator.png) and [HTML screenshot](assets/images/testing/htmlvalidator.png)
 
 - See [HERE](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjamieroche1987.github.io%2Ftic-tac-toe%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) for the full report on CSS Validator
-- See [HERE](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjamieroche1987.github.io%2Ftic-tac-toe%2F) for the home page report on HTML Validator -\_
+- See [HERE](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjamieroche1987.github.io%2Ftic-tac-toe%2F) for the game page report on HTML Validator_
 
--I ran all of my Javascript code through JSHint, No errors found
-\_ See [HERE](assets/images/testing/jsvalidator.png) for JSHint Report
+- I ran all of my Javascript code through JSHint, No errors found
+ See [HERE](assets/images/testing/jsvalidator.png) for JSHint Report
 
 ## Lighthouse
 
@@ -208,12 +215,12 @@ The fonts used for my website are 'Special-Elite' and 'Permanent Marker'. Specia
 
 ## PROGRAMS USED
 
-- The project was written and tested using [Gitpod](https://gitpod.io/)
 - The project uses [Github](https://github.com/) for utilising git version control
 - The project was debugged using [Google Chrome Development tools](https://developer.chrome.co
   m/docs/devtools/)
-- The project was tested for responsiveness at different screen sizes using [Am-I-Responsive](http://ami.responsivedesign.is/#)
-- The project's wireframes were designed in [Balsamiq](https://balsamiq.com/wireframes/)- The project utilised favicon.io to create the Favicon to the appropriate format
+- The project was tested for responsiveness at different screen sizes using [Am-I-Responsive](http://ami.responsivedesign.is)
+- The project's wireframes were designed in [Balsamiq](https://balsamiq.com/wireframes/)
+- The project utilised [Favicon] (https://favicon.io/) to create the Favicon to the appropriate format
 
 # DEPLOYMENT
 
@@ -290,7 +297,7 @@ If you need to make a local clone:
 
 ## CREDITS
 
-### CRIPT\* [Stackoverflow](https://stackoverflow.com/search?q=tic+tac+toe+javascript) This was very useful for finding out different elements i wanted to have on my website. Things such as the restart button, adding a pop up message with new game button answers i found here.
+- [Stackoverflow](https://stackoverflow.com/search?q=tic+tac+toe+javascript) This was very useful for finding out different elements i wanted to have on my website. Things such as the restart button, adding a pop up message with new game button answers i found here.
 
 - Everybody on slack for pointing me to [W3Schools](https://www.w3schools.com/) for more indepth guides to the correct syntax and uses of Functions in JAVASCRIPT
 
