@@ -23,6 +23,7 @@ Tic Tac Toe is a website designed to play the classic game of noughts and crosse
   - To make the site easy read
   - Have a players score board
   - Look appealing with the color scheme
+  - The user that wins the game starts the next game.
   - Have a pop up message at the end of the game with a button feature to start a new game.
 
 ## UX/UI
@@ -91,7 +92,6 @@ The Game consists of:
 
 - I would add a feature that would allow the user to play on their own against a computer.
 - Another feature would be adding a time so each player only has a certain amount of time per move.
-- I would add a feature which alternates the player starting first at the start of each game.
 - I would add a feature to stop the first turn of each player being able to select the middle field on the game board.
 - I would add a feature to allow the user to type in their own name instead of the Player X or Player O names.
 
@@ -102,13 +102,15 @@ The Game consists of:
 - The background color #2832C2
   ![Background](/assets/images/testing/backgroundblue.png)
 
-- The Heading and Rules title color rgb(132, 130, 149)
+- The Heading and Rules title color #F5F5F5
   ![Heading](/assets/images/testing/headingcolor.png)
 
 - The game board, background of the score board and restart button color
+
   ![Game board](/assets/images/testing/gameboard.png)
 
 - The pop up message has a new game button which is colored #250645 with the text color #466289. It also has a winning message text color #ffd700
+
   ![popup message](/assets/images/testing/popupbackground.png)
   ![Popup message text](/assets/images/testing/popuptext.png)
   ![Winning text](/assets/images/testing/winningtext.png)
@@ -119,15 +121,23 @@ The fonts used for my website are 'Special-Elite' and 'Permanent Marker'. Specia
 
 ## TESTING
 
-- As a user, I want to easily understand the main purpose of the game
+- As a user, I want to easily understand the main purpose of the game:
 
-- As a user, I want the game to be colourful and fun
+ * Upon loading the Game, you will see a the heading indicating what the game is. Underneath the heading is the rules section which outlines how to play the game. The game board is standing out with its coloring which help the user locate where to play the game.  Outcome: `Fulfilled.`
 
-- As a user, I want to see obvious and clear buttons to play the game
+- As a user, I want the game to be colourful and fun: 
 
-- As a user, I want to see a score board to see who wins the most games
+* I have used various colors to help show the user the different parts to the game. Using a brighter color for the key elements helps the user navigate around the site. Outcome: `Fulfilled.`
 
-*
+- As a user, I want to see obvious and clear buttons to play the game.
+
+  * I included a restart button at the bottom of the page which will clear all the game board fields. I have also added a new game button on the pop up message which when clicked will restart the game while also increases the score board for the winning player. Outcome: `Fulfilled.`
+
+- As a user, I want to see a score board to see who wins the most games:
+
+* I included a scoreboard on the right hand side of the game board( on the desktop) which has the scores of the players X and O. It will increase by 1 on the player X or O winning.  Outcome: `Fulfilled.`
+
+
 
 ## DEVICES
 
