@@ -14,13 +14,12 @@ Tic Tac Toe is a website designed to play the classic game of noughts and crosse
 ### INITIAL IDEA CONCEPT
 
 - My initial idea for the project was to create a game of Tic Tac Toe that can be played with friends and family
-- I wanted to make the website to stand out with the colors used.
-- I also wanted their to be a score board to keep track of who is winning the most games.
+- I wanted to make the website stand out with the colors used.
+ Ig also wanted there to be a score board to keep track of who is winning the most games.
 - My target audience is anyone who has an interest in playing tic tac toe with others
 
 * The Features I wanted the project to have are:
 
-  - To make the site easy read
   - Have a players score board
   - Look appealing with the color scheme
   - The user that wins the game starts the next game.
@@ -42,7 +41,7 @@ Site Goals:
 
 ## USER STORIES
 
-- As a user, i want to have a rules section so that i can undertand how the game works.-
+- As a user, i want to have a rules section so that i can undertand how the game works
 - As a user, I want the game to be colourful and fun
 - As a user, I want to see obvious and clear buttons to play the game
 - As a user, I want to see a score board to see who wins the most games
@@ -79,7 +78,7 @@ The Game consists of:
 
   ![rules](/assets/images/testing/rules.png)
 
-- A page with a 9 empty boxes that when clicked will display an X or and O depending on whose players turn it is.
+- Underneath the rules on the left are 9 empty boxes that when clicked will display an X or and O depending on whose players turn it is.
 - On the right of the game is the Score board to keep track of how many games Player X or Player O has won. (everyone time a player wins the score of the winning player will increase by 1)
   ![gameboard](/assets/images/testing/gameboard.png)
 
@@ -156,8 +155,7 @@ The fonts used for my website are 'Special-Elite' and 'Permanent Marker'. Specia
 
   - Apple:
 
-    - Ipad mini
-    - Iphone 14
+    - Ipad 
 
   - Desktops/laptops:
 
@@ -292,8 +290,7 @@ If you need to make a local clone:
 6. Open Git Bash
 7. Change the current working directory to the new location of where you want the cloned directory to be
 8. Type git clone and then paste the URL you copied in step 4
-9. Press Enter,
-   to create your local clone to your chosen directory
+9. Press Enter,to create your local clone to your chosen directory
 
 ## CREDITS
 
@@ -305,10 +302,10 @@ If you need to make a local clone:
 
 ## ACKNOWLEDGEMENTS
 
-- My partner Runa Brandes who has taken the time to look and advice me on the areas that need improving or amending. Also putting up with my stress levels when things have got tough when doing this project. Thank you Runa for your contiuned support.
+- My partner Runa Brandes who has taken the time to look and advice me on the areas that need improving or amending. Also putting up with my stress levels when things have got tough when doing this project. Thank you Runa for your continued support.
 
 - My Mentor Alex for his brilliant advice on my code, whether my code is right or wrong also for his excellent input in to how to correct my javascript.
 
-- Folarin for his amazing input and help when i was struggling to work out why my Javascript wasnt working as i intended to.
+- Folarin for his amazing input and help when i was struggling to work out why my Javascript wasnt working as i intended it to.
 
 - The Code Institute Slack community who have been there to help and give suggestions and feedback.

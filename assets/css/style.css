@@ -1,11 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Special+Elite&display=swap');
 
+/* ----------------------------------------------Global override styles*/
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
+/* ----------------------------------------------Main body styles */
 body {
     background: #2832c2;
     width: 100%;
