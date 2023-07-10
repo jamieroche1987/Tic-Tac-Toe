@@ -152,7 +152,7 @@ The fonts used for my website are 'Special-Elite' and 'Permanent Marker'. Specia
 
   - Android:
 
-  - Samsung Galaxy Tab A
+    - Samsung Galaxy Tab A
 
   - Apple:
 
@@ -163,12 +163,10 @@ The fonts used for my website are 'Special-Elite' and 'Permanent Marker'. Specia
 
     - HP Pavillion Laptop
 
-- Browsers:
+  - Browsers:
 
-  - Chrome
-  - Safari
-
-*
+    - Chrome
+    - Firefox
 
 ## Validators
 
@@ -303,6 +301,14 @@ If you need to make a local clone:
 
 - Everybody on slack for pointing me to [W3Schools](https://www.w3schools.com/) for more indepth guides to the correct syntax and uses of Functions in JAVASCRIPT
 
+- Code Institute's Love Maths walkthrough project
+
 ## ACKNOWLEDGEMENTS
 
--
+- My partner Runa Brandes who has taken the time to look and advice me on the areas that need improving or amending. Also putting up with my stress levels when things have got tough when doing this project. Thank you Runa for your contiuned support.
+
+- My Mentor Alex for his brilliant advice on my code, whether my code is right or wrong also for his excellent input in to how to correct my javascript.
+
+- Folarin for his amazing input and help when i was struggling to work out why my Javascript wasnt working as i intended to.
+
+- The Code Institute Slack community who have been there to help and give suggestions and feedback.
