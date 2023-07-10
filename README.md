@@ -42,7 +42,7 @@ Site Goals:
 
 ## USER STORIES
 
-- As a user, I want to easily understand the main purpose of the game
+- As a user, i want to have a rules section so that i can undertand how the game works.-
 - As a user, I want the game to be colourful and fun
 - As a user, I want to see obvious and clear buttons to play the game
 - As a user, I want to see a score board to see who wins the most games
@@ -121,21 +121,21 @@ The fonts used for my website are 'Special-Elite' and 'Permanent Marker'. Specia
 
 ## TESTING
 
-- As a user, I want to easily understand the main purpose of the game:
+- As a user, i want to have a rules section so that i can undertand how the game works.
 
-* Upon loading the Game, you will see a the heading indicating what the game is. Underneath the heading is the rules section which outlines how to play the game. The game board is standing out with its coloring which help the user locate where to play the game. Outcome: `Fulfilled.`
+  * Upon loading the Game, you will see a the heading indicating what the game is. Underneath the heading is the rules section which outlines how to play the game. The game board is standing out with its coloring which help the user locate where to play the game. Outcome: `Fulfilled.`
 
 - As a user, I want the game to be colourful and fun:
 
-* I have used various colors to help show the user the different parts to the game. Using a brighter color for the key elements helps the user navigate around the site. Outcome: `Fulfilled.`
+  * I have used various colors to help show the user the different parts to the game. Using a brighter color for the key elements helps the user navigate around the site. Outcome: `Fulfilled.`
 
 - As a user, I want to see obvious and clear buttons to play the game.
 
-  - I included a restart button at the bottom of the page which will clear all the game board fields. I have also added a new game button on the pop up message which when clicked will restart the game while also increases the score board for the winning player. Outcome: `Fulfilled.`
+  * I included a restart button at the bottom of the page which will clear all the game board fields. I have also added a new game button on the pop up message which when clicked will restart the game while also increases the score board for the winning player. Outcome: `Fulfilled.`
 
 - As a user, I want to see a score board to see who wins the most games:
 
-* I included a scoreboard on the right hand side of the game board( on the desktop) which has the scores of the players X and O. It will increase by 1 on the player X or O winning. Outcome: `Fulfilled.`
+  * I included a scoreboard on the right hand side of the game board( on the desktop) which has the scores of the players X and O. It will increase by 1 on the player X or O winning. Outcome: `Fulfilled.`
 
 ## DEVICES
 
@@ -170,7 +170,7 @@ The fonts used for my website are 'Special-Elite' and 'Permanent Marker'. Specia
 - See [HERE](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjamieroche1987.github.io%2Ftic-tac-toe%2F) for the home page report on HTML Validator -\_
 
 -I ran all of my Javascript code through JSHint, No errors found
-\_ See [HERE](assets/images/testing/jshint1.png) for JSHint Report
+\_ See [HERE](assets/images/testing/jsvalidator.png) for JSHint Report
 
 ## Lighthouse
 
@@ -211,11 +211,11 @@ The fonts used for my website are 'Special-Elite' and 'Permanent Marker'. Specia
 - The project was written and tested using [Gitpod](https://gitpod.io/)
 - The project uses [Github](https://github.com/) for utilising git version control
 - The project was debugged using [Google Chrome Development tools](https://developer.chrome.co
-m/docs/devtools/)
+  m/docs/devtools/)
 - The project was tested for responsiveness at different screen sizes using [Am-I-Responsive](http://ami.responsivedesign.is/#)
 - The project's wireframes were designed in [Balsamiq](https://balsamiq.com/wireframes/)- The project utilised favicon.io to create the Favicon to the appropriate format
 
-# DEPLOYMENT 
+# DEPLOYMENT
 
 ## REMOTE DEPLOYMENT:
 
@@ -285,14 +285,14 @@ If you need to make a local clone:
 6. Open Git Bash
 7. Change the current working directory to the new location of where you want the cloned directory to be
 8. Type git clone and then paste the URL you copied in step 4
-9. Press Enter, 
-to create your local clone to your chosen directory
+9. Press Enter,
+   to create your local clone to your chosen directory
 
 ## CREDITS
 
-### CRIPT* [Stackoverflow](https://stackoverflow.com/search?q=tic+tac+toe+javascript) This was very useful for finding out different elements i wanted to have on my website. Things such as the restart button, adding a pop up message with new game button answers i found here.
-* Everybody on slack for pointing me to [W3Schools](https://www.w3schools.com/) for more indepth guides to the correct syntax and uses of Functions in JAVASCRIPT
+### CRIPT\* [Stackoverflow](https://stackoverflow.com/search?q=tic+tac+toe+javascript) This was very useful for finding out different elements i wanted to have on my website. Things such as the restart button, adding a pop up message with new game button answers i found here.
 
+- Everybody on slack for pointing me to [W3Schools](https://www.w3schools.com/) for more indepth guides to the correct syntax and uses of Functions in JAVASCRIPT
 
 ## ACKNOWLEDGEMENTS
 
